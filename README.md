@@ -66,7 +66,7 @@ Este projeto aborda diversos conceitos importantes do desenvolvimento backend co
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/shopping-cart.git
+git clone https://github.com/kaddumotta/shopping-cart.git
 ```
 
 Acesse a pasta do projeto:
